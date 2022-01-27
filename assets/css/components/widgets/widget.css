@@ -1,0 +1,51 @@
+/*-- Widgets --*/
+.widget-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 0.1rem solid var(--grey-light-one);
+}
+.widget-title h3 {
+  font-size: 1.8rem;
+  line-height: 3rem;
+  margin-bottom: 0;
+}
+.widget .tagcloud {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -0.5rem -0.5rem -1rem;
+}
+.widget .tagcloud > a {
+  margin: 0.5rem;
+}
+.widgets-sidebar ul {
+  padding-left: 1.8rem;
+  margin-bottom: -1rem;
+}
+.widgets-sidebar ul ul {
+  margin-bottom: 0;
+}
+.elementor-widget-sidebar .widget:last-child {
+  margin-bottom: 2.5rem;
+}
+.papr-search-form {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: -1rem;
+}
+.papr-search-form input {
+  margin-bottom: 1rem;
+}
+.papr-search-form .input-group-btn {
+  display: block;
+  margin: 0 0 1rem 0.5rem;
+}
+.papr-search-form .input-group-btn .btn {
+  height: 100%;
+  padding: 1.1rem 2rem;
+}
+.textwidget p {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,155 @@
+
+/*-- Banner category counter --*/
+.axil-banner-cat-counter {
+    transform: translateY(-50%);
+    margin-bottom: -9.2rem;
+
+    @media @OnTabletPro {
+        transform: none;
+        margin-bottom: 6rem;
+    }
+
+    .axil-content {
+        position: relative;
+        background: #fff;
+
+        &::before {
+            content: " ";
+            position: absolute;
+            top: 5rem;
+            right: 5.5rem;
+            bottom: -2rem;
+            left: 5.5rem;
+            background: rgba(18, 18, 19, .2);
+            filter: blur(12px);
+        }
+
+        @media @OnTabletPro {
+            margin-top: 4.5rem;
+            box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+
+            &::before {
+                display: none;
+            }
+        }
+    }
+
+    .category-list-wrapper {
+        position: relative;
+        background: #fff;
+        margin: 0 -2.5rem;
+        padding: 3rem;
+
+        li {
+            width: 20%;
+            height: 24.4rem;
+            padding: 3rem;
+        }
+
+        @media @OnTabletPro {
+            justify-content: center;
+            margin: 0;
+
+            li {
+                width: 25%;
+                padding: 1rem;
+            }
+        }
+
+        @media @OnMobile {
+            padding: 1rem;
+
+            li {
+                width: 50%;
+                padding: 1rem;
+            }
+        }
+    }
+}
+
+.axil-banner-cat-counter_slider {
+    transform: translateY(-54%);
+    margin-bottom: -13.4rem;
+
+    &::before {
+        content: " ";
+        position: absolute;
+        top: 5rem;
+        right: 5.5rem;
+        bottom: -2rem;
+        left: 5.5rem;
+        background: rgba(18, 18, 19, .2);
+        filter: blur(12px);
+    }
+
+    .owl-theme .owl-nav {
+        margin: 0;
+    }
+
+    @media @OnTabletPro {
+        transform: none;
+        margin-bottom: 3rem;
+
+        &::before {
+            display: none;
+        }
+    }
+
+    .axil-content_slider {
+        position: relative;
+        background: #fff;
+        padding: 3rem;
+        margin: 0 -2.5rem;
+
+        @media @OnTabletPro {
+            margin-top: 4.5rem;
+            box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+        }
+
+        @media @OnTabletMini {
+            margin: 4.5rem 0 0;
+            padding: 0;
+        }
+    }
+
+    .category-list-wrapper_slider {
+        position: relative;
+        background: #fff;
+
+
+        .category-list_slider {
+            height: 24.4rem;
+            padding: 3rem;
+
+            .list-inner_slider {
+                position: relative;
+                display: block;
+                width: 100%;
+                height: 100%;
+                background-color: var(--primary-color);
+                background-size: 100%;
+                background-position: center center;
+                overflow: hidden;
+                transition: all .2s;
+
+                &:hover {
+                    background-size: 110%;
+                }
+            }
+        }
+
+        @media @OnTabletPro {
+            justify-content: center;
+            margin: 0;
+
+            .category-list_slider {
+                width: 100%;
+                padding: 1rem;
+            }
+        }
+
+        @media @OnMobile {
+            padding: 1rem;
+        }
+    }
+}

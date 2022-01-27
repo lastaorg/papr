@@ -1,0 +1,17 @@
+.elementor-widget.elementor-widget-axil-post-minimal, 
+.elementor-widget.elementor-widget-axil-post-minimal .elementor-widget-container {
+    height: 100%;
+}
+.axil-banner-sidebar::before{
+  display: none;
+}
+.axil-rotate-90{
+  transform: rotate(-90deg);
+}
+.banner-home__with-post {
+    padding-bottom: 0;
+}
+
+.plyr__poster {
+    background-size: cover;
+}

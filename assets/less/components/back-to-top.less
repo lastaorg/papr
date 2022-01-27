@@ -1,0 +1,37 @@
+/*-- Back to top --*/
+
+.axil-top-scroll {
+    position: fixed;
+    right: 2rem;
+    bottom: -2rem;
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    font-size: 1.8rem;
+    line-height: 4rem;
+    color: #fff;
+    text-align: center;
+    opacity: 0;
+    z-index: 5;
+    border-radius: 50%;
+    transition: all .1s ease-out;
+    background-color: var(--primary-color);
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.3);
+
+    &.back-top {
+        opacity: 1;
+        bottom: 2rem;
+
+        @media @OnTabletMini {
+            bottom: 8rem;
+        }
+    }
+
+    &:hover,
+    &:focus {
+        color: #fff;
+        background-color: var(--primary-color);
+    }
+
+
+}

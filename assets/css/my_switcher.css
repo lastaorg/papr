@@ -1,0 +1,68 @@
+/* Style Swicher */
+#my_switcher {
+	position: fixed;
+	right: -30px;
+	top: 50%;
+	transform: translateY(-50%) rotate(90deg);
+	z-index: 99;
+}
+#my_switcher ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#my_switcher ul li a {
+	position: relative;
+	font-family: var(--primary-font);
+	font-size: 1.4rem;
+	line-height: 2.2rem;
+	color: var(--primary-color);
+	font-weight: var(--p-semi-bold);
+	text-transform: uppercase;
+	display: block;
+}
+
+#my_switcher ul li a{
+	border: 2px solid var(--primary-color);
+	padding: 5px 13px;
+	display: flex;
+	align-items: center;
+}
+
+#my_switcher ul li:last-child a {
+	border-left-width: 1px;
+	border-radius: 0 100px 100px 0;
+	padding-right: 15px;
+}
+
+#my_switcher ul li:first-child a{
+	border-right-width: 1px;
+	border-radius: 100px 0 0 100px;
+	padding-left: 15px;
+}
+#my_switcher ul li a.active{
+	color: #ffffff;
+	background: var(--primary-color);
+	border-color: var(--primary-color);
+}
+
+
+
+.spinner {
+	display: none;
+	position: fixed;
+	top: 33%;
+	left: 48%;
+	width: 60px;
+	height: 60px;
+	background-color: black;
+	-webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+	animation: sk-rotateplane 1.2s infinite ease-in-out;
+}
+.spinner.active {
+	display: block
+}

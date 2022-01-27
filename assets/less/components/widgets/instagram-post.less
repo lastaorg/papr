@@ -1,0 +1,124 @@
+/*-- Instagram post widget --*/
+.instagram-post-list-wrapper {
+    .category-list-wrapper;
+
+    li {
+        width: 33.333333%;
+        height: 12rem;
+
+        .post-info-wrapper {
+            transform: translateY(101%);
+            transition: all .3s;
+        }
+
+        .list-inner {
+            &:hover {
+                .post-info-wrapper {
+                    transform: translateY(0);
+                }
+            }
+        }
+    }
+
+    .post-info {
+        font-size: 1.4rem;
+        line-height: 2.1rem;
+        color: #fff;
+        font-weight: var(--p-medium);
+
+        i {
+            font-size: 1.2rem;
+            margin-right: .4rem;
+        }
+    }
+}
+
+#sbi_images {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -.5rem !important;
+
+    .sbi_item {
+        padding: .5rem !important;
+    }
+}
+
+#sb_instagram #sbi_images {
+    padding: 0 !important;
+    margin: -5px !important;
+    width: calc(100% + 10px);
+}
+
+#sb_instagram #sbi_images .sbi_item {
+    padding: 5px !important;
+}
+
+#sb_instagram #sbi_load {
+    text-align: left;
+}
+
+#sb_instagram #sbi_load .sbi_follow_btn {
+    margin-left: 0;
+}
+
+#sb_instagram .sbi_follow_btn a {
+    .btn;
+    .btn.btn-primary;
+    .btn-small;
+    border: none;
+    margin: 2rem 0 0;
+
+    svg {
+        display: none;
+    }
+
+    &:hover {
+        box-shadow: none;
+    }
+}
+
+#sb_instagram .sbi_photo {
+    background-size: 110% !important;
+    transition: all .2s !important;
+
+    &:hover {
+        background-size: 120% !important;
+    }
+}
+//
+//#sb_instagram.sbi_col_10 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_3 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_4 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_5 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_6 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_7 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_8 #sbi_images .sbi_item,
+//#sb_instagram.sbi_col_9 #sbi_images .sbi_item {
+//    width: 33.333333% !important;
+//}
+
+#sb_instagram.sbi_col_4 #sbi_images .sbi_item{
+    width: 33.333333% !important;
+}
+
+#sb_instagram {
+    padding-bottom: 0!important;
+}
+
+@media (max-width: 1199px) {
+    #sb_instagram .sbi_photo {
+        height: 300px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    #sb_instagram .sbi_photo {
+        height: 230px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    #sb_instagram .sbi_photo {
+        height: 110px !important;
+    }
+}

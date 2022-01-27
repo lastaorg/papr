@@ -1,0 +1,52 @@
+/*-- Pagination --*/
+.axil-post-pagination {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  width: 100%;
+}
+@media all and (max-width: 991px) {
+  .axil-post-pagination {
+    padding-bottom: 60px;
+  }
+}
+@media all and (max-width: 767px) {
+  .axil-post-pagination {
+    text-align: center;
+  }
+}
+.axil-post-pagination ul {
+  position: relative;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: -0.3rem;
+  padding: 0;
+}
+.axil-post-pagination ul li {
+  border: 1px solid var(--grey-light-one);
+  margin: 0.3rem;
+  line-height: 4.2rem;
+  min-width: 4.2rem;
+  text-align: center;
+  color: var(--grey-dark-three);
+  transition: all 0.5s;
+}
+.axil-post-pagination ul li:hover,
+.axil-post-pagination ul li.active {
+  background: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #fff;
+}
+.axil-post-pagination ul li:hover a,
+.axil-post-pagination ul li.active a {
+  color: #fff;
+}
+.axil-post-pagination ul a {
+  display: block;
+  padding: 0 15px;
+  transition: all 0.5s;
+}
+.axil-post-pagination ul i {
+  font-weight: 400;
+}

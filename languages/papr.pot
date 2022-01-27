@@ -1,0 +1,1785 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Papr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-04 11:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: comments.php:29
+msgid " Comment"
+msgstr ""
+
+#: comments.php:27
+msgid " Comments"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:74
+msgid "1 Column"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:75
+msgid "2 Columns"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:76
+msgid "3 Columns"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:77
+msgid "4 Columns"
+msgstr ""
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:78
+msgid "6 Columns"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:23
+msgid "Activate Ad"
+msgstr ""
+
+#: inc/redux-include/options/color.php:222
+msgid "Active Breadcrumb Color"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:80
+msgid "Ad Management"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:31
+msgid "Ad Type"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:81
+msgid "Additional Information Tab"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:28
+msgid "Address"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:22
+msgid "Address Field Title"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:88
+msgid "After Post Contents"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:90
+msgid "After Post Sidebar"
+msgstr ""
+
+#: inc/demo-import-config.php:39 inc/demo-import-config.php:54
+#: inc/demo-import-config.php:69 inc/demo-import-config.php:84
+#: inc/demo-import-config.php:99
+msgid "After you import this demo, you will have setup all content."
+msgstr ""
+
+#: inc/helper/page-title-trait.php:28
+msgid "All Posts"
+msgstr ""
+
+#: inc/helper/page-title-trait.php:34
+msgid "All Team Member"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:60
+msgid "Allows you to customize some example settings for papr."
+msgstr ""
+
+#: inc/redux-include/options/general.php:82
+msgid "Alternative Preview Image"
+msgstr ""
+
+#: inc/redux-include/options/color.php:98
+#: inc/redux-include/options/color.php:142
+#: inc/redux-include/options/color.php:150
+msgid "Applied when Transparent Header is enabled"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:102
+msgid "Archive"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:275
+msgid "Articles By This Author Text"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:356
+msgid "Author News"
+msgstr ""
+
+#: inc/tgm-config.php:27
+msgid "Axil Panels"
+msgstr ""
+
+#. Author of the theme
+msgid "Axilthemes"
+msgstr ""
+
+#: inc/redux-include/options/general.php:92
+msgid "Back to Top"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:58
+msgid "Banner"
+msgstr ""
+
+#: inc/redux-include/options/color.php:193
+msgid "Banner and Breadcrumb"
+msgstr ""
+
+#: inc/redux-include/options/color.php:200
+msgid "Banner Heading Color"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:87
+msgid "Before Post Contents"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:89
+msgid "Before Post Sidebar"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:97
+msgid "Blog/Archive"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:133
+msgid "Body B1"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:152
+msgid "Body B2"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:171
+msgid "Body B3"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:190
+msgid "Body B4"
+msgstr ""
+
+#: inc/redux-include/options/color.php:304
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:194
+msgid "Body Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:312
+msgid "Body Text 1 Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:319
+msgid "Body Text 2 Color"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:49
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/redux-include/options/color.php:207
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:215
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: inc/tgm-config.php:41
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/redux-include/options/color.php:229
+msgid "Breadcrumb Seperator Color"
+msgstr ""
+
+#: inc/redux-include/options/error.php:33
+msgid "Button Text"
+msgstr ""
+
+#: inc/redux-include/options/header.php:113
+msgid "Button Url"
+msgstr ""
+
+#: inc/helper/post-metas-trait.php:73 inc/helper/post-metas-trait.php:115
+#: inc/helper/post-metas-trait.php:149 inc/helper/post-metas-trait.php:162
+#: inc/helper/post-metas-trait.php:181 inc/helper/post-metas-trait.php:223
+#: inc/helper/post-metas-trait.php:262
+msgid ""
+msgstr ""
+
+#: template-parts/post-related-grid.php:96
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:34
+msgid "Call Now Field Title"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:89
+msgid "Cart Page"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:41
+msgid "Categories"
+msgstr ""
+
+#: inc/redux-include/options/header.php:77
+msgid "Click"
+msgstr ""
+
+#: inc/tgm-config.php:36
+msgid "CMB2"
+msgstr ""
+
+#: inc/redux-include/options/color.php:13
+msgid "Colors"
+msgstr ""
+
+#: author.php:85
+msgid "Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:12
+#: inc/redux-include/options/contact-socials.php:14
+msgid "Contact & Socials"
+msgstr ""
+
+#: inc/tgm-config.php:76
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:23
+msgid "Contact information"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:42
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:35
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/redux-include/options/color.php:277
+#: inc/redux-include/options/footer.php:116
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/redux-include/options/color.php:284
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:130
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/redux-include/options/color.php:291
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:95
+msgid "Cross Sell Products"
+msgstr ""
+
+#: inc/redux-include/options/header.php:152
+msgid "Current date"
+msgstr ""
+
+#: inc/redux-include/options/color.php:51
+msgid "Custom"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:34
+#: inc/redux-include/options/advertisements.php:69
+msgid "Custom Code"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:27
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:65
+msgid "Description Tab"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:57
+#: inc/redux-include/options/general.php:57
+#: inc/redux-include/options/general.php:76
+#: inc/redux-include/options/general.php:94
+#: inc/redux-include/options/general.php:129
+#: inc/redux-include/options/advertisements.php:25
+#: inc/redux-include/options/footer.php:39
+#: inc/redux-include/options/footer.php:89
+#: inc/redux-include/options/footer.php:97
+#: inc/redux-include/options/footer.php:124
+#: inc/redux-include/options/header.php:31
+#: inc/redux-include/options/header.php:39
+#: inc/redux-include/options/header.php:89
+#: inc/redux-include/options/header.php:98
+#: inc/redux-include/options/header.php:122
+#: inc/redux-include/options/header.php:133
+#: inc/redux-include/options/header.php:144
+#: inc/redux-include/options/header.php:154
+#: inc/redux-include/options/layout.php:51
+#: inc/redux-include/options/layout.php:60
+#: inc/redux-include/options/off-canvas.php:23
+#: inc/redux-include/options/off-canvas.php:33
+#: inc/redux-include/options/off-canvas.php:43
+#: inc/redux-include/options/off-canvas.php:53
+msgid "Disabled"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:122
+msgid "Display Copyright Area"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:37
+msgid "Display Footer Area"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:87
+msgid "Display Footer Middle"
+msgstr ""
+
+#: inc/redux-include/options/header.php:29
+msgid "Display Header Area"
+msgstr ""
+
+#: inc/redux-include/options/post.php:206
+#: inc/redux-include/options/layout.php:590
+msgid "Display post Order"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:60
+msgid ""
+"Edit Social Networks Link and Label? Go to General -> Contact & Socials "
+"Section"
+msgstr ""
+
+#: inc/tgm-config.php:56
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:52
+msgid "Email"
+msgstr ""
+
+#: template-parts/header/header-4.php:42 template-parts/header/header-4.php:46
+msgid "En"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:56
+#: inc/redux-include/options/general.php:56
+#: inc/redux-include/options/general.php:75
+#: inc/redux-include/options/general.php:93
+#: inc/redux-include/options/general.php:128
+#: inc/redux-include/options/advertisements.php:24
+#: inc/redux-include/options/footer.php:38
+#: inc/redux-include/options/footer.php:88
+#: inc/redux-include/options/footer.php:96
+#: inc/redux-include/options/footer.php:123
+#: inc/redux-include/options/header.php:30
+#: inc/redux-include/options/header.php:38
+#: inc/redux-include/options/header.php:88
+#: inc/redux-include/options/header.php:97
+#: inc/redux-include/options/header.php:121
+#: inc/redux-include/options/header.php:132
+#: inc/redux-include/options/header.php:143
+#: inc/redux-include/options/header.php:153
+#: inc/redux-include/options/layout.php:50
+#: inc/redux-include/options/layout.php:59
+#: inc/redux-include/options/off-canvas.php:22
+#: inc/redux-include/options/off-canvas.php:32
+#: inc/redux-include/options/off-canvas.php:42
+#: inc/redux-include/options/off-canvas.php:52
+msgid "Enabled"
+msgstr ""
+
+#: inc/redux-include/options/color.php:297
+msgid "Error Page"
+msgstr ""
+
+#: inc/redux-include/options/error.php:12
+#: inc/redux-include/options/error.php:14
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/redux-include/options/error.php:27
+msgid "Error Page Sub Title"
+msgstr ""
+
+#: inc/redux-include/options/error.php:21
+msgid "Error Page Title"
+msgstr ""
+
+#: fallback.php:23
+#, php-format
+msgid ""
+"Error: Your current PHP version is %s. You need at least PHP version 5.3+ to "
+"make this theme to work. Please ask your hosting provider to upgrade your "
+"PHP version into 5.3+"
+msgstr ""
+
+#: functions.php:97
+#, php-format
+msgid ""
+"Error: Your current PHP version is %s. You need at least PHP version 5.4+ . "
+"Please upgrade your PHP version 5.4+"
+msgstr ""
+
+#: inc/redux-include/options/general.php:155
+msgid "Everywhere"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:65
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:46
+msgid "Fax"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:60
+msgid "Follow us"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:522 inc/redux-include/options/footer.php:12
+#: inc/redux-include/options/footer.php:21
+#: inc/redux-include/options/footer.php:24
+msgid "Footer"
+msgstr ""
+
+#: inc/general-widget.php:31
+msgid "Footer 1"
+msgstr ""
+
+#: inc/general-widget.php:32
+msgid "Footer 2"
+msgstr ""
+
+#: inc/general-widget.php:33
+msgid "Footer 3"
+msgstr ""
+
+#: inc/general-widget.php:34
+msgid "Footer 4"
+msgstr ""
+
+#: inc/general-widget.php:35
+msgid "Footer 5"
+msgstr ""
+
+#: inc/general-widget.php:36
+msgid "Footer 6"
+msgstr ""
+
+#: inc/redux-include/options/color.php:235
+#: inc/redux-include/options/footer.php:30
+msgid "Footer Area"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:647 inc/redux-include/options/color.php:242
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:263
+msgid "Footer Body Link Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:270
+msgid "Footer Body Link Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:256
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:627
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: inc/theme-setup.php:48 inc/redux-include/options/footer.php:95
+msgid "Footer Bottom Menu"
+msgstr ""
+
+#: inc/general-widget.php:22
+msgid "Footer Bottom Right"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:106
+#: inc/redux-include/options/footer.php:109
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:53
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/redux-include/options/general.php:47
+#: inc/redux-include/options/footer.php:45
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/redux-include/options/color.php:249
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: template-parts/header/header-4.php:47
+msgid "Fr"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:19
+msgid "Full Width"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:66
+#: inc/redux-include/options/woocommerce.php:22
+#: inc/redux-include/options/general.php:12
+#: inc/redux-include/options/general.php:21
+#: inc/redux-include/options/general.php:23
+msgid "General"
+msgstr ""
+
+#: template-parts/header/header-4.php:48
+msgid "Ger"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Get started here"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:227
+msgid "Global Link Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:247
+msgid "Global Link Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/error.php:34
+msgid "GO TO HOME PAGE"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:354 inc/redux-include/options/header.php:12
+msgid "Header"
+msgstr ""
+
+#: inc/redux-include/options/header.php:105
+msgid "Header button Text"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:19
+msgid "Header h1"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:38
+msgid "Header h2"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:57
+msgid "Header h3"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:76
+msgid "Header h4"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:95
+msgid "Header h5"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:114
+msgid "Header h6"
+msgstr ""
+
+#: inc/redux-include/options/header.php:46
+msgid "Header Layout"
+msgstr ""
+
+#: inc/redux-include/options/header.php:20
+#: inc/redux-include/options/header.php:22
+msgid "Header Main"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:438
+msgid "Header Top - Background Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:398
+msgid "Header Top - Link Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:418
+msgid "Header Top - Link Hover Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:378
+msgid "Header Top - Text Color"
+msgstr ""
+
+#: inc/redux-include/options/header.php:142
+msgid "Header Top Menu"
+msgstr ""
+
+#: inc/theme-setup.php:47
+msgid "Header-Top Menu"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:43
+#: inc/redux-include/options/woocommerce.php:51
+#: inc/redux-include/options/woocommerce.php:59
+#: inc/redux-include/options/woocommerce.php:67
+#: inc/redux-include/options/woocommerce.php:75
+#: inc/redux-include/options/woocommerce.php:83
+#: inc/redux-include/options/woocommerce.php:97
+msgid "Hide"
+msgstr ""
+
+#: inc/redux-include/options/general.php:157
+msgid "Home"
+msgstr ""
+
+#: inc/redux-include/options/header.php:78
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://axilthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://axilthemes.com/themes/papr"
+msgstr ""
+
+#: inc/theme-setup.php:94
+msgid "Huge"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:22
+msgid "If enable, the frontend shows maintenance / coming soon mode page only."
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:42
+msgid "Image"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:33
+msgid "Image Link"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:15
+msgid "In case you want to hide any field, just keep that field empty"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:96
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/redux-include/options/header.php:120
+msgid "Language Switcher"
+msgstr ""
+
+#: inc/theme-setup.php:89
+msgid "Large"
+msgstr ""
+
+#: inc/redux-include/options/post.php:211
+#: inc/redux-include/options/layout.php:595
+msgid "Last Modified Posts"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:16
+msgid "Layout "
+msgstr ""
+
+#: inc/redux-include/options/post.php:27 inc/redux-include/options/blog.php:25
+#: inc/redux-include/options/footer.php:57
+#: inc/redux-include/options/header.php:50
+#: inc/redux-include/options/layout.php:121
+#: inc/redux-include/options/layout.php:245
+#: inc/redux-include/options/layout.php:412
+msgid "Layout 1"
+msgstr ""
+
+#: inc/redux-include/options/post.php:31 inc/redux-include/options/blog.php:29
+#: inc/redux-include/options/footer.php:61
+#: inc/redux-include/options/header.php:54
+#: inc/redux-include/options/layout.php:125
+#: inc/redux-include/options/layout.php:249
+#: inc/redux-include/options/layout.php:416
+msgid "Layout 2"
+msgstr ""
+
+#: inc/redux-include/options/post.php:35
+#: inc/redux-include/options/header.php:58
+#: inc/redux-include/options/layout.php:420
+msgid "Layout 3"
+msgstr ""
+
+#: inc/redux-include/options/post.php:39
+#: inc/redux-include/options/header.php:62
+#: inc/redux-include/options/layout.php:424
+msgid "Layout 4"
+msgstr ""
+
+#: inc/redux-include/options/post.php:43
+#: inc/redux-include/options/header.php:66
+#: inc/redux-include/options/layout.php:428
+msgid "Layout 5"
+msgstr ""
+
+#: inc/redux-include/options/post.php:47
+#: inc/redux-include/options/layout.php:432
+msgid "Layout 6"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:18
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/theme-setup.php:56
+msgid "light grayish primary"
+msgstr ""
+
+#: inc/redux-include/options/general.php:38
+msgid "Light Logo"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:49
+msgid "Link"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:585
+msgid "Link Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:606
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:78
+msgid "Linkedin"
+msgstr ""
+
+#: inc/helper/pagination-trai.php:21
+msgid "Load More"
+msgstr ""
+
+#: inc/tgm-config.php:51
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:39
+msgid "Mailchimp Form Shortcode"
+msgstr ""
+
+#: inc/redux-include/options/general.php:30
+msgid "Main Logo"
+msgstr ""
+
+#: inc/redux-include/options/color.php:119
+msgid "Main Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Maintenance"
+msgstr ""
+
+#: inc/redux-include/options/color.php:126
+msgid "Menu Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:133
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:340
+msgid "Meta Hover Color (Dark Background)"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:300
+msgid "Meta Link Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:320
+msgid "Meta Link Hover Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:280
+msgid "Meta Text Color"
+msgstr ""
+
+#: inc/demo-import-config.php:113
+msgid "More Home Page Version Are Coming Soon!"
+msgstr ""
+
+#: inc/redux-include/options/post.php:212
+#: inc/redux-include/options/layout.php:596
+msgid "Most Commented posts"
+msgstr ""
+
+#: inc/redux-include/options/post.php:213
+#: inc/redux-include/options/layout.php:597
+msgid "Most Viewed posts"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:511
+msgid "Navigation Background Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:471
+msgid "Navigation Link Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:491
+msgid "Navigation Link Hover Color"
+msgstr ""
+
+#: comments.php:57
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:226
+msgid "News Archive"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:12 inc/redux-include/options/blog.php:16
+msgid "News Settings"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:95
+msgid "News/Archive"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:21
+msgid "News/Archive Layout"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:117
+#: inc/redux-include/options/layout.php:241
+msgid "News/Archive Template"
+msgstr ""
+
+#: inc/helper/helper-post.php:237 inc/helper/helper-post.php:277
+msgid "Next Post"
+msgstr ""
+
+#: inc/helper/helper-post.php:164
+msgid "Next Story &raquo;"
+msgstr ""
+
+#: inc/theme-setup.php:84
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:72
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:47
+#: inc/redux-include/options/layout.php:143
+msgid "Number of Content"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:28
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/redux-include/options/post.php:58 inc/redux-include/options/post.php:67
+#: inc/redux-include/options/post.php:75 inc/redux-include/options/post.php:84
+#: inc/redux-include/options/post.php:93 inc/redux-include/options/post.php:102
+#: inc/redux-include/options/post.php:111
+#: inc/redux-include/options/post.php:119
+#: inc/redux-include/options/post.php:127
+#: inc/redux-include/options/post.php:135
+#: inc/redux-include/options/post.php:144
+#: inc/redux-include/options/post.php:152
+#: inc/redux-include/options/post.php:161 inc/redux-include/options/blog.php:41
+#: inc/redux-include/options/blog.php:57 inc/redux-include/options/blog.php:65
+#: inc/redux-include/options/blog.php:73 inc/redux-include/options/blog.php:82
+#: inc/redux-include/options/blog.php:90 inc/redux-include/options/blog.php:99
+#: inc/redux-include/options/blog.php:108
+#: inc/redux-include/options/blog.php:116
+#: inc/redux-include/options/layout.php:137
+#: inc/redux-include/options/layout.php:153
+#: inc/redux-include/options/layout.php:161
+#: inc/redux-include/options/layout.php:169
+#: inc/redux-include/options/layout.php:178
+#: inc/redux-include/options/layout.php:186
+#: inc/redux-include/options/layout.php:195
+#: inc/redux-include/options/layout.php:204
+#: inc/redux-include/options/layout.php:212
+#: inc/redux-include/options/layout.php:260
+#: inc/redux-include/options/layout.php:283
+#: inc/redux-include/options/layout.php:291
+#: inc/redux-include/options/layout.php:299
+#: inc/redux-include/options/layout.php:308
+#: inc/redux-include/options/layout.php:316
+#: inc/redux-include/options/layout.php:325
+#: inc/redux-include/options/layout.php:334
+#: inc/redux-include/options/layout.php:342
+#: inc/redux-include/options/layout.php:443
+#: inc/redux-include/options/layout.php:452
+#: inc/redux-include/options/layout.php:460
+#: inc/redux-include/options/layout.php:469
+#: inc/redux-include/options/layout.php:478
+#: inc/redux-include/options/layout.php:487
+#: inc/redux-include/options/layout.php:496
+#: inc/redux-include/options/layout.php:504
+#: inc/redux-include/options/layout.php:512
+#: inc/redux-include/options/layout.php:520
+#: inc/redux-include/options/layout.php:529
+#: inc/redux-include/options/layout.php:537
+#: inc/redux-include/options/layout.php:546
+msgid "Off"
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:21
+msgid "Off-Canvas Area"
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:51
+msgid "Off-Canvas Contact Info"
+msgstr ""
+
+#: inc/theme-setup.php:46 inc/redux-include/options/off-canvas.php:12
+#: inc/redux-include/options/off-canvas.php:14
+#: inc/redux-include/options/off-canvas.php:41
+msgid "Off-Canvas Menu"
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:31
+msgid "Off-Canvas Search"
+msgstr ""
+
+#: comments.php:56
+msgid "Older Comments"
+msgstr ""
+
+#: inc/redux-include/options/post.php:57 inc/redux-include/options/post.php:66
+#: inc/redux-include/options/post.php:74 inc/redux-include/options/post.php:83
+#: inc/redux-include/options/post.php:92 inc/redux-include/options/post.php:101
+#: inc/redux-include/options/post.php:110
+#: inc/redux-include/options/post.php:118
+#: inc/redux-include/options/post.php:126
+#: inc/redux-include/options/post.php:134
+#: inc/redux-include/options/post.php:143
+#: inc/redux-include/options/post.php:151
+#: inc/redux-include/options/post.php:160 inc/redux-include/options/blog.php:40
+#: inc/redux-include/options/blog.php:56 inc/redux-include/options/blog.php:64
+#: inc/redux-include/options/blog.php:72 inc/redux-include/options/blog.php:81
+#: inc/redux-include/options/blog.php:89 inc/redux-include/options/blog.php:98
+#: inc/redux-include/options/blog.php:107
+#: inc/redux-include/options/blog.php:115
+#: inc/redux-include/options/layout.php:136
+#: inc/redux-include/options/layout.php:152
+#: inc/redux-include/options/layout.php:160
+#: inc/redux-include/options/layout.php:168
+#: inc/redux-include/options/layout.php:177
+#: inc/redux-include/options/layout.php:185
+#: inc/redux-include/options/layout.php:194
+#: inc/redux-include/options/layout.php:203
+#: inc/redux-include/options/layout.php:211
+#: inc/redux-include/options/layout.php:259
+#: inc/redux-include/options/layout.php:282
+#: inc/redux-include/options/layout.php:290
+#: inc/redux-include/options/layout.php:298
+#: inc/redux-include/options/layout.php:307
+#: inc/redux-include/options/layout.php:315
+#: inc/redux-include/options/layout.php:324
+#: inc/redux-include/options/layout.php:333
+#: inc/redux-include/options/layout.php:341
+#: inc/redux-include/options/layout.php:442
+#: inc/redux-include/options/layout.php:451
+#: inc/redux-include/options/layout.php:459
+#: inc/redux-include/options/layout.php:468
+#: inc/redux-include/options/layout.php:477
+#: inc/redux-include/options/layout.php:486
+#: inc/redux-include/options/layout.php:495
+#: inc/redux-include/options/layout.php:503
+#: inc/redux-include/options/layout.php:511
+#: inc/redux-include/options/layout.php:519
+#: inc/redux-include/options/layout.php:528
+#: inc/redux-include/options/layout.php:536
+#: inc/redux-include/options/layout.php:545
+msgid "On"
+msgstr ""
+
+#: inc/tgm-config.php:81
+msgid "One Click Demo"
+msgstr ""
+
+#: inc/redux-include/options/error.php:22
+msgid "OOPS! THAT PAGE CAN’T BE FOUND."
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:57
+msgid "Open Advertisement Tab"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:59
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:60
+msgid "Open in Same tab"
+msgstr ""
+
+#: inc/redux-include/options/color.php:48
+msgid "Other Colors"
+msgstr ""
+
+#: template-parts/content-single-3.php:51
+#: template-parts/content-single-4.php:75
+#: template-parts/content-single-5.php:66
+#: template-parts/content-single-2.php:58
+#: template-parts/content-single-6.php:59
+#: template-parts/content-single-1.php:84
+msgid "Page"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:82
+msgid "Page Layout"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:32
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:69
+msgid "Pages Layouts"
+msgstr ""
+
+#: template-parts/content-single-3.php:47
+#: template-parts/content-single-4.php:71
+#: template-parts/content-single-5.php:62
+#: template-parts/content-single-2.php:54 template-parts/content-page.php:17
+#: template-parts/content-simple.php:32 template-parts/content-single-6.php:55
+#: template-parts/content-single-1.php:80
+msgid "Pages:"
+msgstr ""
+
+#. Name of the theme
+msgid "Papr"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:57
+msgid "Papr Colors Options"
+msgstr ""
+
+#: inc/tgm-config.php:20
+msgid "Papr Elements"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Papr is a premium and trendy News, Magazine and Blog WordPress Theme with "
+"super flexible and fully responsive design."
+msgstr ""
+
+#: inc/redux-include/redux-init.php:28 inc/redux-include/redux-init.php:29
+msgid "Papr Options"
+msgstr ""
+
+#: functions.php:125
+msgid "Papr Style"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:40
+msgid "Phone"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:90
+msgid "Pinterest"
+msgstr ""
+
+#: searchform.php:12 template-parts/header/header-3.php:33
+#: template-parts/header/header-2.php:51 template-parts/header/header-5.php:35
+#: template-parts/header/header-side-nav-1.php:29
+#: template-parts/header/header-1.php:42
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: template-parts/header/header-4.php:57
+msgctxt "placeholder"
+msgid "Search Here ..."
+msgstr ""
+
+#: inc/redux-include/options/general.php:64
+msgid ""
+"Please upload your choice of preloader image. Transparent GIF format is "
+"recommended"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: inc/register-custom-fonts.php:14
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/redux-include/options/general.php:127
+msgid "Popup"
+msgstr ""
+
+#: inc/redux-include/options/general.php:136
+msgid "Popup Content Shortcode"
+msgstr ""
+
+#: inc/redux-include/options/general.php:143
+msgid "Popup Image"
+msgstr ""
+
+#: inc/redux-include/options/post.php:192
+#: inc/redux-include/options/layout.php:576
+msgid "Post Query"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:620
+msgid "Post Single"
+msgstr ""
+
+#: inc/redux-include/options/general.php:156
+msgid "Posts"
+msgstr ""
+
+#: inc/redux-include/options/post.php:197
+#: inc/redux-include/options/layout.php:581
+msgid "Posts by the same Author"
+msgstr ""
+
+#: inc/redux-include/options/post.php:195
+#: inc/redux-include/options/layout.php:579
+msgid "Posts in the same Categories"
+msgstr ""
+
+#: inc/redux-include/options/post.php:196
+#: inc/redux-include/options/layout.php:580
+msgid "Posts in the same Tags"
+msgstr ""
+
+#: inc/redux-include/options/general.php:55
+msgid "Preloader"
+msgstr ""
+
+#: inc/redux-include/options/general.php:63
+msgid "Preloader Image"
+msgstr ""
+
+#: inc/helper/helper-post.php:268
+msgid "Prev Post"
+msgstr ""
+
+#: inc/helper/helper-post.php:141
+msgid "Previous article"
+msgstr ""
+
+#: inc/helper/helper-post.php:223
+msgid "Previous Post"
+msgstr ""
+
+#: inc/theme-setup.php:45
+msgid "Primary"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:89 inc/redux-include/options/color.php:28
+#: inc/redux-include/options/color.php:50
+msgid "Primary Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:35
+msgid "Primary Text Color"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:648
+msgid "Product Single"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:34
+msgid "Product Single Page"
+msgstr ""
+
+#: inc/redux-include/options/post.php:191
+#: inc/redux-include/options/layout.php:575
+msgid "Query Type"
+msgstr ""
+
+#: inc/redux-include/options/post.php:210
+#: inc/redux-include/options/layout.php:594
+msgid "Random Posts"
+msgstr ""
+
+#: inc/redux-include/options/post.php:209
+#: inc/redux-include/options/layout.php:593
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/tgm-config.php:46
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/redux-include/options/post.php:175
+#: inc/redux-include/options/layout.php:559
+msgid "Related Post Area Title"
+msgstr ""
+
+#: inc/redux-include/options/post.php:167
+#: inc/redux-include/options/layout.php:552
+msgid "Related Post Settings"
+msgstr ""
+
+#: inc/redux-include/options/post.php:222
+#: inc/redux-include/options/layout.php:606
+msgid "Related Post Title Length"
+msgstr ""
+
+#: inc/redux-include/options/post.php:177
+#: inc/redux-include/options/layout.php:561
+msgid "Related Posts"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:57
+msgid "Related Products"
+msgstr ""
+
+#: comments.php:45
+msgid "Reply"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:73
+msgid "Reviews Tab"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Yantramanav, translate this to 'off'. Do not translate into your own language.
+#: inc/register-custom-fonts.php:19
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/redux-include/options/header.php:87
+msgid "Search Icon"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:93
+msgid "Search Layout"
+msgstr ""
+
+#: inc/helper/page-title-trait.php:21
+msgid "Search results for: "
+msgstr ""
+
+#: inc/redux-include/options/color.php:42
+msgid "Secondery Color"
+msgstr ""
+
+#: inc/redux-include/options/header.php:75
+msgid "Select Dropdown Menu Open Option"
+msgstr ""
+
+#: inc/redux-include/options/general.php:153
+msgid "Select how the more post will show - Pagination / Load More"
+msgstr ""
+
+#: inc/redux-include/options/color.php:54
+msgid ""
+"Selecting Primary Color will hide some color options from the below settings "
+"and replace them with Primary/Secondery Color"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:658
+msgid "Settings"
+msgstr ""
+
+#: inc/redux-include/options/post.php:150
+#: inc/redux-include/options/layout.php:535
+msgid "Share Button Show/hide in footer "
+msgstr ""
+
+#: inc/redux-include/options/post.php:142
+#: inc/redux-include/options/layout.php:527
+msgid "Share Button Show/hide in top"
+msgstr ""
+
+#: template-parts/content-single-3.php:63
+#: template-parts/content-single-4.php:88
+#: template-parts/content-single-5.php:78
+#: template-parts/content-single-2.php:70
+#: template-parts/content-single-6.php:72
+#: template-parts/content-single-1.php:97
+msgid "Share:"
+msgstr ""
+
+#: inc/tgm-config.php:61
+msgid "Shared Counts – Social Media Share Buttons"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:385
+msgid "Shop Archive"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:42
+#: inc/redux-include/options/woocommerce.php:50
+#: inc/redux-include/options/woocommerce.php:58
+#: inc/redux-include/options/woocommerce.php:66
+#: inc/redux-include/options/woocommerce.php:74
+#: inc/redux-include/options/woocommerce.php:82
+#: inc/redux-include/options/woocommerce.php:96
+msgid "Show"
+msgstr ""
+
+#: inc/redux-include/options/post.php:100
+#: inc/redux-include/options/layout.php:485
+msgid "Show Author Bio"
+msgstr ""
+
+#: inc/redux-include/options/post.php:91 inc/redux-include/options/blog.php:55
+#: inc/redux-include/options/layout.php:151
+#: inc/redux-include/options/layout.php:281
+#: inc/redux-include/options/layout.php:476
+msgid "Show Author Name"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:114
+#: inc/redux-include/options/layout.php:210
+#: inc/redux-include/options/layout.php:340
+msgid "Show blog post thumb"
+msgstr ""
+
+#: inc/redux-include/options/post.php:109 inc/redux-include/options/blog.php:97
+#: inc/redux-include/options/layout.php:193
+#: inc/redux-include/options/layout.php:323
+#: inc/redux-include/options/layout.php:494
+msgid "Show Categories"
+msgstr ""
+
+#: inc/redux-include/options/post.php:117
+#: inc/redux-include/options/blog.php:106
+#: inc/redux-include/options/layout.php:202
+#: inc/redux-include/options/layout.php:332
+#: inc/redux-include/options/layout.php:502
+msgid "Show Comment Number"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:39
+#: inc/redux-include/options/layout.php:135
+#: inc/redux-include/options/layout.php:258
+msgid "Show content Display"
+msgstr ""
+
+#: inc/redux-include/options/blog.php:63
+#: inc/redux-include/options/layout.php:159
+#: inc/redux-include/options/layout.php:289
+msgid "Show Date"
+msgstr ""
+
+#: inc/redux-include/options/header.php:41
+msgid "Show header when scroll down"
+msgstr ""
+
+#: inc/redux-include/options/post.php:125
+#: inc/redux-include/options/layout.php:510
+msgid "Show Next Post / Previous post"
+msgstr ""
+
+#: inc/redux-include/options/post.php:76 inc/redux-include/options/post.php:85
+#: inc/redux-include/options/blog.php:74 inc/redux-include/options/blog.php:91
+#: inc/redux-include/options/layout.php:170
+#: inc/redux-include/options/layout.php:187
+#: inc/redux-include/options/layout.php:300
+#: inc/redux-include/options/layout.php:317
+#: inc/redux-include/options/layout.php:461
+#: inc/redux-include/options/layout.php:470
+msgid "Show or hide post views count number"
+msgstr ""
+
+#: inc/redux-include/options/post.php:56
+#: inc/redux-include/options/layout.php:441
+msgid "Show Post Date"
+msgstr ""
+
+#: inc/redux-include/options/post.php:65 inc/redux-include/options/blog.php:80
+#: inc/redux-include/options/layout.php:176
+#: inc/redux-include/options/layout.php:306
+#: inc/redux-include/options/layout.php:450
+msgid "Show Post Update Date"
+msgstr ""
+
+#: inc/redux-include/options/general.php:74
+msgid "Show Preview Image"
+msgstr ""
+
+#: inc/redux-include/options/post.php:159
+#: inc/redux-include/options/layout.php:544
+msgid "Show Related post"
+msgstr ""
+
+#: inc/redux-include/options/post.php:183
+#: inc/redux-include/options/layout.php:567
+msgid "Show Related Post Number"
+msgstr ""
+
+#: inc/redux-include/options/post.php:133
+#: inc/redux-include/options/layout.php:518
+msgid "Show Tags"
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:55
+msgid "Show/hide contact info form off-canvas menu area."
+msgstr ""
+
+#: inc/redux-include/options/footer.php:99
+msgid "Show/hide menu form Footer Bottom area."
+msgstr ""
+
+#: inc/redux-include/options/header.php:146
+msgid "Show/hide menu form Header Top  area."
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:45
+msgid "Show/hide menu form off-canvas menu area."
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:25
+msgid "Show/hide off-canvas area."
+msgstr ""
+
+#: inc/redux-include/options/general.php:131
+msgid "Show/hide Popup."
+msgstr ""
+
+#: inc/redux-include/options/post.php:82 inc/redux-include/options/blog.php:88
+#: inc/redux-include/options/layout.php:184
+#: inc/redux-include/options/layout.php:314
+#: inc/redux-include/options/layout.php:467
+msgid "Show/hide Post Shares"
+msgstr ""
+
+#: inc/redux-include/options/post.php:73 inc/redux-include/options/blog.php:71
+#: inc/redux-include/options/layout.php:167
+#: inc/redux-include/options/layout.php:297
+#: inc/redux-include/options/layout.php:458
+msgid "Show/hide Post View"
+msgstr ""
+
+#: inc/redux-include/options/off-canvas.php:35
+msgid "Show/hide search form off-canvas menu area."
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:59
+msgid "Show/hide social networks area."
+msgstr ""
+
+#: inc/general-widget.php:14 inc/helper/layout-trait.php:183
+msgid "Sidebar"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:396
+msgid "Single"
+msgstr ""
+
+#: inc/redux-include/options/post.php:23
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/redux-include/options/post.php:14 inc/redux-include/options/post.php:18
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:408
+msgid "Single Post Template  Layout"
+msgstr ""
+
+#: inc/redux-include/options/color.php:21
+msgid "Sitewide Colors"
+msgstr ""
+
+#: inc/theme-setup.php:79
+msgid "Small"
+msgstr ""
+
+#: inc/tgm-config.php:66
+msgid "Smash Balloon Social Photo Feed"
+msgstr ""
+
+#: inc/tgm-config.php:71
+msgid "Social Count Plus"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:55
+msgid "Social Networks"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:59
+msgid "Social Title"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-include/options/post.php:205
+#: inc/redux-include/options/layout.php:589
+msgid "Sort Order"
+msgstr ""
+
+#: inc/redux-include/options/header.php:37
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme-setup.php:61
+msgid "strong primary"
+msgstr ""
+
+#: inc/redux-include/options/color.php:157
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/redux-include/options/color.php:171
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:164
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:186
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:179
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/header.php:106
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: inc/redux-include/options/header.php:96
+msgid "Subscribe Button"
+msgstr ""
+
+#: inc/redux-include/options/general.php:118
+#: inc/redux-include/options/general.php:120
+msgid "Subscription Popup Maker"
+msgstr ""
+
+#: inc/redux-include/options/advertisements.php:71
+msgid "Supports: Shortcode, Adsense, Text, HTML, Scripts"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:49
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-single-3.php:58
+#: template-parts/content-single-4.php:82
+#: template-parts/content-single-5.php:73
+#: template-parts/content-single-2.php:65 template-parts/content-simple.php:39
+#: template-parts/content-single-6.php:66
+#: template-parts/content-single-1.php:91
+msgid "Tags:"
+msgstr ""
+
+#: inc/redux-include/options/layout.php:369
+msgid "Team Archive"
+msgstr ""
+
+#: inc/redux-include/options/general.php:107
+msgid "Team Category Slug"
+msgstr ""
+
+#: inc/redux-include/options/general.php:100
+msgid "Team Slug"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:564
+msgid "Text Color"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:29
+msgid "Theodore Lowe, Ap #867-859 Sit Rd, Azusa New York"
+msgstr ""
+
+#: inc/redux-include/options/general.php:83
+msgid ""
+"This image will be used as preview image in some archive pages if no "
+"featured image exists"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:33
+msgid "This Project Is Under Construction."
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:120 inc/dynamic-style/customizer.php:543
+msgid "Title Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:140
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/dynamic-style/customizer.php:161
+msgid "Title Hover Color (Dark Background)"
+msgstr ""
+
+#: inc/redux-include/options/color.php:59
+#: inc/redux-include/options/header.php:131
+msgid "Top Bar"
+msgstr ""
+
+#: inc/redux-include/options/color.php:66
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:81
+msgid "Top Bar Icon Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:89
+msgid "Top Bar Icon Color Hover"
+msgstr ""
+
+#: inc/redux-include/options/color.php:105
+msgid "Top Bar Social Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:112
+msgid "Top Bar Social Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:73
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: author.php:81
+msgid "Total Post"
+msgstr ""
+
+#: inc/redux-include/options/color.php:141
+msgid "Transparent Menu Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:149
+msgid "Transparent Menu Hover Color"
+msgstr ""
+
+#: inc/redux-include/options/color.php:97
+msgid "Transparent Top Bar Text Color"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:71
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-include/options/typography.php:11
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:12
+#: inc/redux-include/options/under-construction.php:14
+msgid "Under Construction"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:21
+msgid "Under Construction / Coming Soon Mode"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:46
+msgid "Under Construction Image"
+msgstr ""
+
+#: inc/helper/post-metas-trait.php:81 inc/helper/post-metas-trait.php:123
+#: inc/helper/post-metas-trait.php:190 inc/helper/post-metas-trait.php:232
+#: inc/helper/post-metas-trait.php:272 inc/helper/post-metas-trait.php:315
+msgid "Update:"
+msgstr ""
+
+#: inc/redux-include/options/under-construction.php:40
+msgid "Use the shortcode that create Mailchimp Form"
+msgstr ""
+
+#: inc/redux-include/options/general.php:137
+msgid "Use the shortcode that create popup content"
+msgstr ""
+
+#: inc/theme-setup.php:71
+msgid "very dark light"
+msgstr ""
+
+#: inc/theme-setup.php:66
+msgid "very light"
+msgstr ""
+
+#: inc/lab/axil-post-views.php:68
+msgid "Views"
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:35
+msgid "We are available 24/ 7. Call Now."
+msgstr ""
+
+#: inc/redux-include/options/general.php:152
+msgid "Whare To Show"
+msgstr ""
+
+#: inc/redux-include/options/general.php:101
+#: inc/redux-include/options/general.php:108
+msgid "Will be used in URL"
+msgstr ""
+
+#: inc/redux-include/options/woocommerce.php:13
+#: inc/redux-include/options/woocommerce.php:15
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/redux-include/options/footer.php:66
+#: inc/redux-include/options/header.php:70
+#: inc/redux-include/options/header.php:135
+msgid "You can override this settings in individual pages"
+msgstr ""
+
+#: inc/views/comments-callback.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/redux-include/options/contact-socials.php:84
+msgid "Youtube"
+msgstr ""

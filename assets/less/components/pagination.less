@@ -1,0 +1,55 @@
+/*-- Pagination --*/
+.axil-post-pagination {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    width: 100%;
+
+    @media all and (max-width: 991px) {
+        padding-bottom: 60px;
+    }
+
+    @media all and (max-width: 767px) {
+        text-align: center;
+    }
+}
+
+.axil-post-pagination ul {
+    position: relative;
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: -.3rem;
+    padding: 0;
+
+    li {
+        border: 1px solid var(--grey-light-one);
+        margin: .3rem;
+        line-height: 4.2rem;
+        min-width: 4.2rem;
+        text-align: center;
+        color: var(--grey-dark-three);
+        transition: all .5s;
+
+        &:hover,
+        &.active {
+            background: var(--primary-color);
+            border-color: var(--primary-color);
+            color: #fff;
+
+            a {
+                color: #fff;
+            }
+        }
+    }
+
+    a {
+        display: block;
+        padding: 0 15px;
+        transition: all .5s;
+    }
+
+    i {
+        font-weight: 400;
+    }
+}

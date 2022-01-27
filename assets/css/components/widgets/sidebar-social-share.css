@@ -1,0 +1,39 @@
+/*-- Sidebar social share --*/
+.social-share-list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: -0.5rem;
+}
+.social-share-list-wrapper li {
+  width: 25%;
+  height: 10rem;
+  padding: 0.5rem;
+  color: #fff;
+}
+.social-share-list-wrapper li .list-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  transition: all 0.2s;
+}
+.social-share-list-wrapper li .list-inner:hover {
+  color: inherit;
+  transform: translateY(-2px);
+}
+.social-share-list-wrapper li i {
+  font-size: 1.8rem;
+}
+.social-share-list-wrapper li .counts {
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  font-weight: var(--p-bold);
+}
+.social-share-list-wrapper li .title {
+  font-family: var(--secondary-font);
+  font-size: 1rem;
+  line-height: 1.3rem;
+}
